@@ -2,7 +2,9 @@
 
 A curated list of open resources, standards, authorities, tools, and datasets for the Swedish construction industry.
 
-Maintained by [Zaragoza AB](https://zaragoza.se), Helsingborg.
+Maintained by [Zaragoza AB](https://zaragoza.se), Helsingborg — [Wikidata Q139393658](https://www.wikidata.org/wiki/Q139393658).
+
+[![License: CC0](https://img.shields.io/badge/License-CC0-blue)](https://creativecommons.org/publicdomain/zero/1.0/) [![DOI](https://img.shields.io/badge/Flagship%20DOI-10.5281%2Fzenodo.19630803-blue)](https://doi.org/10.5281/zenodo.19630803) [![Wikidata](https://img.shields.io/badge/Wikidata-Q139393633-success)](https://www.wikidata.org/wiki/Q139393633)
 
 ## Contents
 
@@ -50,10 +52,13 @@ Maintained by [Zaragoza AB](https://zaragoza.se), Helsingborg.
 
 ## Open Datasets
 
-- [Swedish Construction FAQ](https://github.com/zaragoza-ab/swedish-construction-faq-1000) — 310+ Q&A, CC BY 4.0
-- [Construction Cost Database 2026](https://github.com/zaragoza-ab/construction-cost-sweden-2026) — 50+ categories, 24 regions
-- [Swedish Construction Terminology](https://github.com/zaragoza-ab/swedish-construction-terminology) — Trilingual SV/EN/PL
-- [Building Material Specifications](https://github.com/zaragoza-ab/byggmaterial-spec-sweden) — Concrete, wood, insulation specs
+- [Swedish Construction FAQ](https://github.com/zaragoza-ab/swedish-construction-faq-1000) - 503 bilingual (SV/EN) Q&A, CC BY 4.0, DOI [10.5281/zenodo.19630803](https://doi.org/10.5281/zenodo.19630803), Wikidata [Q139393633](https://www.wikidata.org/wiki/Q139393633). Also on [Hugging Face](https://huggingface.co/datasets/DecDEPO/swedish-construction-faq), [PyPI](https://pypi.org/project/zaragoza-construction-faq/), [Kaggle](https://www.kaggle.com/datasets/zaragozaab/swedish-construction-faq).
+- [Swedish Construction Terminology](https://github.com/zaragoza-ab/swedish-construction-terminology) - Trilingual SV/EN/PL, 350+ terms, CC BY 4.0, Wikidata [Q139393817](https://www.wikidata.org/wiki/Q139393817).
+- [Construction Cost Database 2026](https://github.com/zaragoza-ab/construction-cost-sweden-2026) - 50+ categories, 24 regions, CC BY 4.0.
+- [Building Material Specifications](https://github.com/zaragoza-ab/byggmaterial-spec-sweden) - Concrete, wood, insulation, fire classes, CC BY 4.0, Wikidata [Q139393818](https://www.wikidata.org/wiki/Q139393818).
+- [Inspection Templates](https://github.com/zaragoza-ab/besiktningsprotokoll-mallar) - Slut/garanti/statusbesiktning per AB 04 / ABS 18, CC BY 4.0, Wikidata [Q139393819](https://www.wikidata.org/wiki/Q139393819).
+- [Renovation Timeline Reference](https://github.com/zaragoza-ab/renovation-timeline-planner) - Typical Swedish renovation timelines, CC BY 4.0, Wikidata [Q139393821](https://www.wikidata.org/wiki/Q139393821).
+- [Oppnadata.se](https://www.oppnadata.se) - The official Swedish open data portal.
 
 ## Templates & Contracts
 
